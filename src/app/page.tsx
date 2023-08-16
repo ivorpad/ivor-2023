@@ -5,7 +5,7 @@ import { Social } from "../components/Social";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center">
-      <section className="my-8 lg:my-24 flex flex-col gap-4 px-8 lg:px-0">
+      <section className="my-8 lg:my-24 flex flex-col gap-8 px-8 lg:px-0">
         <Image
           src="/ivor.png"
           alt="Ivor Padilla's Thumb"
@@ -16,7 +16,7 @@ export default function Home() {
           blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABrUlEQVR4nO3aQW7CQBCF4X9/9+Q"
         />
         <MainArticle />
-        <Social></Social>
+        <Social />
       </section>
     </main>
   );
