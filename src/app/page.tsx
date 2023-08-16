@@ -5,7 +5,7 @@ import { Social } from "../components/Social";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center">
-      <section className="my-24 flex flex-col gap-4 px-8 lg:px-0">
+      <section className="my-8 lg:my-24 flex flex-col gap-4 px-8 lg:px-0">
         <Image
           src="/ivor.png"
           alt="Ivor Padilla's Thumb"
