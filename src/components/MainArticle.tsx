@@ -6,35 +6,66 @@ export function MainArticle() {
       </h1>
       <p>
         I am a seasoned software engineer with expertise in{" "}
-        <a href="#" className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white">
+        <a
+          href="https://react.dev"
+          target="_blank"
+          className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white"
+        >
           React
         </a>
         ,{" "}
-        <a href="#" className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white">
+        <a
+          href="https://nextjs.org"
+          target="_blank"
+          className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white"
+        >
           Node.js
         </a>
         ,{" "}
-        <a href="#" className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white">
+        <a
+          href="#"
+          target="_blank"
+          className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white"
+        >
           Next.js
         </a>
         ,{" "}
-        <a href="#" className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white">
+        <a
+          href="https://www.typescriptlang.org"
+          target="_blank"
+          className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white"
+        >
           TypeScript
         </a>
         ,{" "}
-        <a href="#" className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white">
+        <a
+          href="https://graphql.org"
+          target="_blank"
+          className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white"
+        >
           GraphQL
         </a>
         , and{" "}
-        <a href="#" className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white">
+        <a
+          href="https://aws.amazon.com"
+          target="_blank"
+          className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white"
+        >
           AWS
         </a>
         . My professional skill set also includes experience with{" "}
-        <a href="#" className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white">
+        <a
+          href="https://rubyonrails.org"
+          className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white"
+        >
           Ruby on Rails
         </a>{" "}
         and{" "}
-        <a href="#" className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white">
+        <a
+          href="https://www.shopify.com"
+          target="_blank"
+          className="text-black hover:text-gray-700 dark:text-gray-300 dark:hover:text-white"
+        >
           Shopify
         </a>{" "}
         web development. With a focus on creating robust and scalable solutions,
